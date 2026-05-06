@@ -9,7 +9,7 @@
 [INITIALIZATION][CLIENT][INFO] Loading scripts for loader with names [crafttweaker | recipeevent]
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: removing.zs}
 [INITIALIZATION][CLIENT][INFO] [crafttweaker | SIDE_CLIENT]: Loading Script: {[0:crafttweaker]: replacing.zs}
-[INITIALIZATION][CLIENT][INFO] Completed script loading in: 156ms
+[INITIALIZATION][CLIENT][INFO] Completed script loading in: 152ms
 [POSTINITIALIZATION][CLIENT][INFO] Removing recipes for various outputs
 [POSTINITIALIZATION][CLIENT][INFO] Adding shaped recipe for Crafting Table with name ct_shaped1212345539
 [AVAILABLE][CLIENT][INFO] Fixed the RecipeBook
