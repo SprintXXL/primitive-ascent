@@ -27,3 +27,6 @@ recipes.remove(<minecraft:golden_pickaxe>);
 recipes.remove(<minecraft:golden_axe>);
 recipes.remove(<minecraft:golden_shovel>);
 recipes.remove(<minecraft:golden_sword>);
+
+// Vanilla Bed Recipe
+recipes.remove(<minecraft:bed:*>);
