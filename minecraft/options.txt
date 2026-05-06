@@ -101,7 +101,7 @@ key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
-soundCategory_master:0.44701988
+soundCategory_master:0.17549668
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0
