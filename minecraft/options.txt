@@ -11,7 +11,7 @@ bobView:false
 anaglyph3d:false
 maxFps:260
 fboEnable:true
-difficulty:2
+difficulty:0
 fancyGraphics:false
 ao:0
 renderClouds:false
@@ -103,7 +103,7 @@ key_waila.keybind.liquid:80
 key_waila.keybind.recipe:81
 key_waila.keybind.usage:75
 key_invtweaks.key.sort:19
-soundCategory_master:0.17549668
+soundCategory_master:0.059602648
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

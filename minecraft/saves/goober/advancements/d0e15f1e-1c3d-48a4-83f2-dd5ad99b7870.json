@@ -1,10 +1,4 @@
 {
-  "minecraft:recipes/building_blocks/magenta_wool": {
-    "criteria": {
-      "has_white_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/light_blue_wool": {
     "criteria": {
       "has_white_wool": "2026-05-06 20:09:12 +0200"
@@ -14,12 +8,6 @@
   "minecraft:recipes/misc/red_dye_from_beetroot": {
     "criteria": {
       "has_beetroot": "2026-05-06 20:09:42 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/orange_wool": {
-    "criteria": {
-      "has_white_wool": "2026-05-06 20:09:12 +0200"
     },
     "done": true
   },
@@ -35,6 +23,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/transportation/dark_oak_boat": {
+    "criteria": {
+      "entered_water": "2026-05-06 20:20:09 +0200"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/pink_wool": {
     "criteria": {
       "has_white_wool": "2026-05-06 20:09:12 +0200"
@@ -47,19 +41,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/decorations/painting": {
-    "criteria": {
-      "has_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/black_wool": {
-    "criteria": {
-      "has_white_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/light_gray_wool": {
     "criteria": {
       "has_white_wool": "2026-05-06 20:09:12 +0200"
     },
@@ -71,25 +53,7 @@
     },
     "done": true
   },
-  "minecraft:recipes/building_blocks/red_wool": {
-    "criteria": {
-      "has_white_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/white_banner": {
-    "criteria": {
-      "has_white_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/white_bed": {
-    "criteria": {
-      "has_white_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/cyan_wool": {
     "criteria": {
       "has_white_wool": "2026-05-06 20:09:12 +0200"
     },
@@ -98,18 +62,6 @@
   "minecraft:recipes/building_blocks/green_wool": {
     "criteria": {
       "has_white_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:recipes/building_blocks/yellow_wool": {
-    "criteria": {
-      "has_white_wool": "2026-05-06 20:09:12 +0200"
-    },
-    "done": true
-  },
-  "minecraft:adventure/root": {
-    "criteria": {
-      "killed_something": "2026-05-06 20:09:10 +0200"
     },
     "done": true
   },
@@ -136,5 +88,89 @@
       "plains": "2026-05-06 19:50:44 +0200"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/magenta_wool": {
+    "criteria": {
+      "has_white_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/orange_wool": {
+    "criteria": {
+      "has_white_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/birch_boat": {
+    "criteria": {
+      "entered_water": "2026-05-06 20:20:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/light_gray_wool": {
+    "criteria": {
+      "has_white_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/red_wool": {
+    "criteria": {
+      "has_white_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/acacia_boat": {
+    "criteria": {
+      "entered_water": "2026-05-06 20:20:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cyan_wool": {
+    "criteria": {
+      "has_white_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/yellow_wool": {
+    "criteria": {
+      "has_white_wool": "2026-05-06 20:09:12 +0200"
+    },
+    "done": true
+  },
+  "minecraft:adventure/root": {
+    "criteria": {
+      "killed_something": "2026-05-06 20:09:10 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/boat": {
+    "criteria": {
+      "entered_water": "2026-05-06 20:20:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/jungle_boat": {
+    "criteria": {
+      "entered_water": "2026-05-06 20:20:09 +0200"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/spruce_boat": {
+    "criteria": {
+      "entered_water": "2026-05-06 20:20:09 +0200"
+    },
+    "done": true
   }
 }
