@@ -2,9 +2,9 @@ version:1343
 invertYMouse:false
 mouseSensitivity:0.3028169
 fov:0.1
-gamma:0.33802816
+gamma:0.0
 saturation:0.0
-renderDistance:12
+renderDistance:8
 guiScale:3
 particles:2
 bobView:false
@@ -85,7 +85,6 @@ key_key.hotbar.6:7
 key_key.hotbar.7:8
 key_key.hotbar.8:9
 key_key.hotbar.9:10
-key_key.betterquesting.quests:43
 key_key.jei.toggleOverlay:24:CONTROL
 key_key.jei.focusSearch:33:CONTROL
 key_key.jei.toggleCheatMode:0
@@ -97,7 +96,6 @@ key_key.jei.previousPage:201
 key_key.jei.nextPage:209
 key_key.jei.bookmark:30
 key_key.jei.toggleBookmarkOverlay:0
-key_Dynamic Lights toggle:25
 key_waila.keybind.wailaconfig:82
 key_waila.keybind.wailadisplay:79
 key_waila.keybind.liquid:80
@@ -106,8 +104,8 @@ key_waila.keybind.usage:75
 key_invtweaks.key.sort:19
 key_key.journeymap.zoom_in:13
 key_key.journeymap.zoom_out:12
-key_key.journeymap.minimap_type:39
-key_key.journeymap.minimap_preset:53
+key_key.journeymap.minimap_type:26
+key_key.journeymap.minimap_preset:43
 key_key.journeymap.create_waypoint:48
 key_key.journeymap.toggle_waypoints:44
 key_key.journeymap.fullscreen_create_waypoint:48
@@ -120,7 +118,7 @@ key_key.journeymap.fullscreen.north:200
 key_key.journeymap.fullscreen.south:208
 key_key.journeymap.fullscreen.east:205
 key_key.journeymap.fullscreen.west:203
-soundCategory_master:0.20198676
+soundCategory_master:0.28807947
 soundCategory_music:0.0
 soundCategory_record:1.0
 soundCategory_weather:1.0

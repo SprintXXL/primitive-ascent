@@ -1,16 +1,1 @@
-.git
-.gitignore
-.packignore
-minecraft/.mixin.out
-minecraft/coremods
-minecraft/crafttweaker.log
-minecraft/journeymap
-minecraft/options.txt
-minecraft/resourcepacks
-minecraft/saves
-minecraft/screenshots
-minecraft/server-resource-packs
-minecraft/shaderpacks
-minecraft/texturepacks
-minecraft/usercache.json
-minecraft/usernamecache.json
+.minecraft
